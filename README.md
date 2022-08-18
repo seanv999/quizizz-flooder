@@ -1,3 +1,4 @@
+# I have updated version just make a pull request and ill update it
 # Flood Quizizz with bots
 Using Bookmarklet
 - [](https://via.placeholder.com/15/1589F0/000000?text=+) Paste this into bookmark bar and click it
