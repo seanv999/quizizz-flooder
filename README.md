@@ -12,3 +12,4 @@ fetch("https://raw.githubusercontent.com/seanv999/quizizz-flooder/main/flood.js"
 .then((t) => eval(t)))
 ```
 ![image](https://user-images.githubusercontent.com/79374771/162595454-64e57d15-24de-41a5-a690-1db4ce278f60.png)
+Developed by Sean Vonhauger
